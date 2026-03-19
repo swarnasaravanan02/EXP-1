@@ -74,7 +74,7 @@ a.   KVL:
 
 b.  KCL:
 
-![Uploading Screenshot (15).png…]()
+<img width="654" height="924" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/0907ffcf-11f9-4be9-86d6-7796c905be3e" />
 
 
 RESULT:
